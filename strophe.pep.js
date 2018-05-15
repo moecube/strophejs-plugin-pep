@@ -10,7 +10,7 @@
 // - strophe.caps.js
 // - strophe.pubsub.js
 
-import { $iq, Strophe } from 'strophe';
+import { $iq, Strophe } from 'strophe.js';
 
 let conn = null;
 

@@ -1,0 +1,16 @@
+{
+  "name": "strophejs-plugin-pep",
+  "version": "1.0.0",
+  "description": "Strophe.pep.js is a plugin to provide the Personal Eventing Protocol ( XEP-0163 ).",
+  "main": "strophe.pep.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strophe/strophejs-plugin-pep.git"
+  },
+  "author": "flosse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strophe/strophejs-plugin-pep/issues"
+  },
+  "homepage": "https://github.com/strophe/strophejs-plugin-pep#readme"
+}
